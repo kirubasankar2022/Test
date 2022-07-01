@@ -1,0 +1,27 @@
+.et
+{
+	position: absolute;
+}
+
+.spring
+{
+	width: 100%;
+}
+
+.logged
+{
+	background-color: #FF6900;
+	border-color: #FF6900;
+}
+
+.line1 {
+    color: #000;
+    font-size: 12px
+}
+
+.cards:hover 
+{
+    box-shadow: 1px 1px 1px 1px;
+    transform: scale(1.1)
+}
+
